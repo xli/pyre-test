@@ -1,0 +1,12 @@
+{
+  "binary": "./venv/bin/pyre.bin",
+  "source_directories": [
+    "."
+  ],
+  "ignore_all_errors": [
+    "venv",
+    "example_pb2.py"
+  ],
+  "taint_models_path": "./venv/lib",
+  "typeshed": "./venv/lib/pyre_check/typeshed"
+}

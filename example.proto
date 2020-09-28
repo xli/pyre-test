@@ -1,0 +1,12 @@
+// Copyright (c) The Libra Core Contributors
+// SPDX-License-Identifier: Apache-2.0
+
+syntax = "proto3";
+
+package example;
+
+
+message Amount {
+  uint64 amount = 1;
+  string currency = 2;
+}
