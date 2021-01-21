@@ -1,6 +1,3 @@
+* [feature] Add an awesome feature ([lkajsdf sdaf lkasdf][i33])
 
-#1. abcd
-- #1: abc
-[hello](#1)
-[hello](xli/pyre-test#1)
-
+[i33]: https://github.com/xli/pyre-test/issues/1
